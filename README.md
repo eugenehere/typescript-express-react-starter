@@ -1,5 +1,5 @@
 # typescript-express-react-starter
-The starter pack includes the following tools: Typescript (JSX enabled), Express.js, React.js and Webpack to bundle client transpiled files.
+This starter pack includes the following configuration: Typescript (JSX support), Express.js, React.js, Webpack (to bundle all the client files into bundle.js file).
 
 ## File structure
 ```
